@@ -1,0 +1,5 @@
+/* Basic global styles - kept minimal since components use inline styles */
+html, body, #__next {
+  height: 100%;
+}
+a { cursor: pointer; }
